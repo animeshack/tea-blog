@@ -1,6 +1,8 @@
 {
   "name": "noark-tea",
-  "version": "0.1.0",
+  "description": "Yet Another Tea",
+  "repository": "https://github.com/animeshack/tea-blog.git",
+  "version": "0.1.1",
   "private": false,
   "scripts": {
     "dev": "next dev",
